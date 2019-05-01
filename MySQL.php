@@ -1,8 +1,8 @@
 <?php
  
 // Create connection
-$con=mysqli_connect("localhost","mjbxkkmy_user1","user1_password","mjbxkkmy_sampleDB");
- 
+$con=mysqli_connect("localhost","Username","User_Password","Database_Name");
+
 // Check connection
 if (mysqli_connect_errno())
 {
